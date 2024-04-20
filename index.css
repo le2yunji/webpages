@@ -18,7 +18,7 @@ body{
 h1{
     font-size: 40px;
     position: relative ;
-    color:( #f1f1f1,0);
+    color:( #f1f1f1);
 
 }
 
@@ -30,7 +30,7 @@ header {
     padding: 65px;
     text-align: center;
     /* background-color: rgb(255, 247, s247); */
-    background-color:( #606060,0.1);
+    background-color:( #606060);
     position: relative ; /* 위치 상 부모 요소 position 값 지정해야 함. position 값 없으면 relative 무난*/
 
 }
